@@ -1,0 +1,1 @@
+All results were stored in the MongoDB database (version 3.4.2). A user-friendly web interface, EpiSNPdb (http://gonglab.hzau.edu.cn/EpiSNPdb/), was constructed based on Flask (version 1.0.3) framework to support data browsing, searching and downloading. The database was running on Apache2 web server (version 2.4.18) and was compatible with modern browsers.
